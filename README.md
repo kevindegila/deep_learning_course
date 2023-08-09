@@ -2,7 +2,7 @@
 
 Apprendre l’Intelligence Artificielle avec Tensorflow et passer l’examen Tensorflow developer Certification de Google.
 
-Suivre la formation sur [Udemy](https://kevindegila.com)
+Suivre la formation sur [Udemy](https://www.udemy.com/course/deep-learning-de-zero-a-la-certification-tensorflow/?referralCode=736CA5E82E8C3418B458)
 
 # Curriculum de la formation
 
